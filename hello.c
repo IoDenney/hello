@@ -12,6 +12,7 @@
 int main(int argc, char **argv) {
 
   printf("I'm Denney Thongphet!\n");
+  printf("I'm undeclared!\n");
 
 
   return 0;
